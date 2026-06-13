@@ -11,8 +11,7 @@ This repository contains processed data and analysis code for the manuscript:
 
 
 - data/processed/: processed analytical datasets
-- code/: R scripts for preprocessing, DTW clustering, peak timing, XGBoost-SHAP, GAM, sensitivity analyses, and figure generation
-- results/: selected output tables and figures
+- code/: R scripts for DTW clustering, peak timing, XGBoost-SHAP, GAM, sensitivity analyses, and figure generation
 - docs/: variable descriptions and data dictionary
 
 
