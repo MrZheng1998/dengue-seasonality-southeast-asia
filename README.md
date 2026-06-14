@@ -28,17 +28,16 @@ Run the scripts in the following order:
 
 
 1. 01_dtw_clustering.R
-2. 02_peak_timing_analysis.R
-3. 03_xgboost_shap_analysis.R
-4. 04_gam_threshold_analysis.R
-5. 05_sensitivity_analysis.R
+2. 02_xgboost_shap_analysis.R
+3. 03__gam_threshold_analysis.R
+
 
 
 ## Software environment
 
 
 R version: R 4.2.3
-Key packages: tidyverse, dtwclust, xgboost, SHAPforxgboost, mgcv, brms, ggplot2
+Key packages: tidyverse, dtwclust, xgboost, SHAPforxgboost, mgcv, brms
 
 
 ## Citation
