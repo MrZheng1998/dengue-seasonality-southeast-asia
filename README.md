@@ -11,7 +11,7 @@ This repository contains processed data and analysis code for the manuscript:
 
 
 - data/processed/: processed analytical datasets
-- code/: R scripts for DTW clustering, peak timing, XGBoost-SHAP, GAM, sensitivity analyses, and figure generation
+- code/: R scripts for DTW clustering XGBoost-SHAP, and GAM
 - docs/: variable descriptions and data dictionary
 
 
@@ -29,7 +29,7 @@ Run the scripts in the following order:
 
 1. 01_dtw_clustering.R
 2. 02_xgboost_shap_analysis.R
-3. 03__gam_threshold_analysis.R
+3. 03_gam_threshold_analysis.R
 
 
 
